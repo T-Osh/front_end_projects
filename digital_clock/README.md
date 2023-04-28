@@ -10,7 +10,7 @@ This is a solution to the project Digital Clock with milliseconds form 50 HTML, 
 
 ### Screenshot
 
-./digital_clock_preview.jpg
+./images/digital_clock_preview.jpg
 
 ### Useful resources
 
